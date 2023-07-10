@@ -1,4 +1,4 @@
-module github.com/fabulousCode/scratch
+module github.com/fabulousCode/Golang-boilerplate
 
 go 1.20
 
